@@ -1,0 +1,3 @@
+[submodule "symfony"]
+	path = symfony
+	url = https://github.com/TheGuysBrushes/cofidur_gestion_formation
