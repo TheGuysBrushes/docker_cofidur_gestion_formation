@@ -13,7 +13,7 @@ Le projet, avec son résumé et son avancement sont disponibles à cette adresse
 ## Auteurs et Contributeurs
 
 [<img alt="Florian David" src="https://avatars0.githubusercontent.com/u/11854849" width="140">](https://flodavid.github.io) | [<img alt="Antoine Garnier" src="https://avatars3.githubusercontent.com/u/15716032" width="140">](https://github.com/ascris) | [<img alt="Antoine Garnier" src="https://avatars2.githubusercontent.com/u/17699276" width="140">](https://github.com/vdeleeuw)
-------------------------|---------------------------|----------------------|-----------------------------------|
+----------------------------------|-------------------------------------------------|----------------------------------------|
 [@flodavid](https://flodavid.github.io) | [@ascris](https://github.com/ascris) | [@vdeleeuw](https://github.com/vdeleeuw)
 
   
